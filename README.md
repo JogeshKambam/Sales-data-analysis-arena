@@ -21,3 +21,6 @@ The objective of this project is to analyze sales data and extract meaningful in
 
 ## Conclusion
 The analysis shows that focusing on premium products can significantly increase revenue.
+
+<img width="643" height="420" alt="image" src="https://github.com/user-attachments/assets/cc44204b-cca6-48bd-a467-35e0e62250f4" />
+
